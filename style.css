@@ -1,0 +1,99 @@
+body{
+    font-family: 'Spline Sans', sans-serif;
+}
+.flex{
+    display: flex;
+}
+.introduction{
+    font-weight: 500;
+    font-size: 20px;
+    text-align: justify;
+}
+.dream-big{
+    font-weight: 500;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 10px;
+}
+.fullxp{
+    font-weight: 500;
+    font-size: 20px;
+    text-align: justify;
+
+}
+.babyxp{
+    font-weight: 500;
+    font-size: 20px;
+    text-align: justify;
+}
+.margin{
+    margin-left: 50px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+.orange-color{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+    
+}
+.half-width img{
+    width: 90%;
+}
+.branch1{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.branch2{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 30px;
+}
+.branch3{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-top: 30px;
+}
+.shadow{
+    box-shadow: 0px 0px 4px 2px gray;
+    width: 40%;
+    margin: 5px;
+}
+}
+body{
+    margin: 0px;
+}
+.link_button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 5px;
+    padding: 5px;
+
+}
+.full{
+    margin-left: 5%;
+    margin-right: 2%;
+    border-left: 7px solid;
+    border-image-source: linear-gradient(salmon, tomato);
+    border-image-slice: 1;
+    border-radius: 5px;
+}
+.baby{
+    margin-right: 5%;
+    margin-left: 5%;
+    border-left: 7px solid;
+    border-image-source: linear-gradient(rgb(0, 26, 255), aqua);
+    border-image-slice: 1;
+    border-radius: 5px;
+}
+#text-align{
+    text-align: center;
+}
